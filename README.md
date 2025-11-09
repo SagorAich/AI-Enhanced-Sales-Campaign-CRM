@@ -44,4 +44,17 @@ Files of interest
 - `data/leads.csv` - sample leads
 - `reports/campaign_summary.md` - generated after run
 
-Acceptance: sends emails to MailHog, writes updated CSV with persona/priority/status/response classification, produces a markdown report in `/reports/`.
+Campaign summary:
+
+Total leads: 20 Sent: 9 Replied: 9 Average priority: 3.60
+
+Persona breakdown:
+
+Unknown: 20
+AI Insights
+Campaign Snapshot
+
+Leads: 20
+Sent: 9 (45 %)
+Replied: 9 (100 % of those contacted)
+
